@@ -1,0 +1,9 @@
+# pour VS Code
+.vscode/
+
+# Pour CLion
+
+.idea/
+cmake-build-debug/
+
+# Pour Netbeans???
